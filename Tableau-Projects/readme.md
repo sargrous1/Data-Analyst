@@ -1,5 +1,5 @@
-+  Chemcorp project,
-+  Capstone1,
-+  AEMR project,
-+  Capstone2.
++ Chemcorp project,
++ Capstone1,
++ AEMR project,
++ Capstone2.
   
